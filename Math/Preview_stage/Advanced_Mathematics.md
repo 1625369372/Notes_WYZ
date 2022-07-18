@@ -388,9 +388,9 @@ $$
 \int f(x)dx=F(x)+C
 $$
 
-![1246](attachments/2022-07-17-15-13-54.png)
+![1246](attachments/1246.png)
 
-![1247](attachments/2022-07-17-17-28-37.png)
+![1247](attachments/1247.png)
 
 ### 换元定积分法
 
@@ -402,5 +402,5 @@ $$
 则\int f[\varphi(x)]\varphi'(x)dx=\int f[\varphi(x)]d\varphi(x)=F[\varphi(x)]+C
 $$
 
-![1248](attachments/2022-07-17-23-03-30.png)
+![1248](attachments/1248.png)
 
